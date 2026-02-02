@@ -1,5 +1,6 @@
 # Advanced-Scanner
-
+# First: chmod +x advanced_scanner.sh
+ 
 
 # Basit tarama
 sudo ./advanced_scanner.sh -t example.com
